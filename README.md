@@ -1,5 +1,5 @@
 # insightface_facerecognition
-Facial Recognition using Insightface API and models
+Facial Recognition using Insightface API and ONNX Models
 
 ## Usage Example
 python3 face_recognition.py --task='inference image' --target=./friends1.jpg 
